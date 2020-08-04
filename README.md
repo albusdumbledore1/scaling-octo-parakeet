@@ -1,1 +1,2 @@
-# scaling-octo-parakeet
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
